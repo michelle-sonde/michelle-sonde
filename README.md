@@ -10,10 +10,10 @@ I’m passionate about transforming raw data into meaningful insights, building 
 ## About Me
 
 - I analyze, clean, and visualize data using Python and SQL  
-- I enjoy working on real-world datasets — from earthquakes to finance  
+- I enjoy working on real-world datasets 
 - I blend data analysis with content creation and storytelling  
 - Currently learning Machine Learning, APIs, and dashboard development  
-- Goal: Become a world-class Data Scientist and build impactful projects  
+- Goal: Become a world-class Data Engineer and build impactful projects  
 
 ---
 
@@ -54,7 +54,7 @@ Check my repositories for more.
 ## Connect With Me
 
 - LinkedIn: (https://www.linkedin.com/in/michelle-henry-sonde-5b4845229/) 
-- Twitter/X: Add your link here  
+- Twitter/X: (https://x.com/TheFaithNode?t=3eOohmwzfn-xMqRIaY6jCQ&s=09)
 
 ---
 
